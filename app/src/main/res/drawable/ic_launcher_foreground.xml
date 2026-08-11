@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wallet Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,32 H36 C31.58,32 28,35.58 28,40 V68 C28,72.42 31.58,76 36,76 H72 C76.42,76 80,72.42 80,68 V40 C80,35.58 76.42,32 72,32 Z M72,44 V40 H36 V44 H72 Z M72,68 H36 V48 H72 V68 Z M62,58 C62,55.79 63.79,54 66,54 C68.21,54 70,55.79 70,58 C70,60.21 68.21,62 66,62 C63.79,62 62,60.21 62,58 Z" />
+    <!-- Trend / Plus indicator -->
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M40,52 H54 V56 H40 Z M40,60 H50 V64 H40 Z" />
+</vector>
